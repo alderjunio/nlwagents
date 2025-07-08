@@ -1,3 +1,8 @@
 body{
     background: url("assets/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-position: top center;
+    background-color: #121214;
+    color: #fff;
 }
